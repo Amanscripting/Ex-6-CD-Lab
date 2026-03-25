@@ -72,7 +72,8 @@ int main() {
 }
 ```
 # OUTPUT
-"C:\Users\Alam\OneDrive\Pictures\Screenshots\Screenshot 2026-03-13 123944.png"
+<img width="605" height="703" alt="image" src="https://github.com/user-attachments/assets/ebc30f0f-47c6-4d26-873a-92b368ce096c" />
+
 
 # Result
 The back end of the compiler is implemented successfully, and the output is verified.
